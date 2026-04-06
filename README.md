@@ -14,7 +14,8 @@ Fornecer insights baseados em dados que contribuam para a compreensão dos acide
 
 ## 🗂️ Fonte de Dados
 
-Os dados utilizados foram obtidos da Polícia Rodoviária Federal, por meio do portal de dados abertos.
+Os dados utilizados foram obtidos da Polícia Rodoviária Federal, por meio do portal de dados abertos
+(https://www.gov.br/prf/pt-br/acesso-a-informacao/dados-abertos/dados-abertos-da-prf).
 
 * Tipo: Dados estruturados (CSV)
 * Conteúdo: Informações sobre acidentes, localização, causas, condições e vítimas
