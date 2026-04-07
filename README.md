@@ -72,6 +72,12 @@ Dashboard interativo desenvolvido no Looker Studio:
 * 🌙 Acidentes noturnos tendem a ser mais graves
 * 📍 Diferença entre volume de acidentes e taxa de gravidade por estado
 
+---
+
+OBS: Devido às limitações de ferramentas de visualização, foi realizada uma amostragem e seleção de variáveis para otimizar o desempenho do dashboard, mantendo a representatividade dos dados.
+
+---
+
 ## 🚀 Conclusão
 
 A análise demonstrou que os acidentes de trânsito no Brasil são fortemente influenciados por fatores comportamentais e padrões temporais. O uso de dados permitiu identificar pontos críticos e gerar insights relevantes para possíveis ações de prevenção.
