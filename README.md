@@ -60,7 +60,7 @@ Principais descobertas:
 
 Dashboard interativo desenvolvido no Looker Studio:
 
-👉 (https://lookerstudio.google.com/reporting/507e42a2-effd-421b-886a-57c8059ce0ec/page/p_wwehuf3h2d/edit)
+👉 (https://datastudio.google.com/reporting/507e42a2-effd-421b-886a-57c8059ce0ec)
 
 ---
 
