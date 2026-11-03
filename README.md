@@ -68,13 +68,37 @@ Dashboard interativo desenvolvido no Looker Studio:
 
 ---
 
-## 📊 Principais Insights
+## Principais Resultados e Interpretações
 
-* 🚨 Maior concentração de registros de envolvidos em determinados horários do dia
-* 🍺 Distribuição das ocorrências e vítimas ao longo dos dias da semana
-* ⚠️ Principais causas associadas à maior quantidade de vítimas graves e fatais
-* 🌙 Comparação da gravidade das vítimas entre períodos do dia
-* 📍 Diferenças entre estados quanto ao volume de registros e à média de vítimas graves/fatais por registro
+### 1. Concentração de acidentes nos horários de pico
+
+**O que foi identificado:** Os acidentes apresentam maior concentração no período da tarde, com destaque para o horário das 18h.
+
+**Evidência:** O gráfico de distribuição de acidentes ao longo do dia aponta 18h como o horário com maior número de ocorrências, seguido por 17h, 7h e 19h.
+
+**Interpretação:** A concentração nesses horários indica uma maior ocorrência de acidentes em períodos de deslocamento intenso, como os horários de entrada e saída do trabalho.
+
+**Limitação:** Os dados mostram a distribuição dos acidentes por horário, mas não permitem afirmar que o fluxo de veículos seja a causa direta desse comportamento, nem calcular o risco individual de acidente em cada horário.
+
+### 2. Predominância de causas relacionadas à reação dos condutores
+
+**O que foi identificado:** As categorias relacionadas à reação dos condutores aparecem entre as principais causas registradas nos acidentes analisados.
+
+**Evidência:** A reação tardia ou ineficiente do condutor representa aproximadamente 16,7 mil registros, enquanto a ausência de reação do condutor aparece em segundo lugar, com aproximadamente 14,5 mil. A velocidade incompatível ocupa a terceira posição, com aproximadamente 10,8 mil.
+
+**Interpretação:** Os resultados destacam a relevância dos fatores relacionados à atenção, à capacidade de reação e à condução em velocidade adequada no contexto dos acidentes registrados.
+
+**Limitação:** A classificação das causas permite identificar os fatores registrados pela PRF, mas não comprova, isoladamente, as circunstâncias individuais de cada ocorrência nem estabelece relações causais além do que os dados permitem observar.
+
+### 3. Concentração de acidentes em determinados estados
+
+**O que foi identificado:** Minas Gerais, Paraná e Santa Catarina apresentam os maiores volumes de acidentes entre os estados destacados no dashboard.
+
+**Evidência:** Minas Gerais registra aproximadamente 16,4 mil acidentes, seguido pelo Paraná, com 14,1 mil, e Santa Catarina, com 10,2 mil.
+
+**Interpretação:** A distribuição evidencia uma concentração de ocorrências nesses estados, indicando regiões que merecem atenção em análises de segurança viária e planejamento de ações preventivas.
+
+**Limitação:** O volume absoluto de acidentes não representa, por si só, o risco de ocorrência. Para comparar o risco entre estados, seria necessário considerar fatores como fluxo de veículos, extensão da malha rodoviária e volume de deslocamentos.
 
 **Nota metodológica:** A variável `gravidade` foi definida como a soma de vítimas fatais (`mortos`) e vítimas gravemente feridas (`feridos_graves`). A taxa de gravidade por estado corresponde à divisão dessa soma pela quantidade de registros considerados na análise, não representando diretamente a porcentagem de acidentes graves.
 
