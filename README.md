@@ -84,6 +84,16 @@ OBS: Devido às limitações de ferramentas de visualização, foi realizada uma
 
 ---
 
+### Metodologia e interpretação dos indicadores
+
+A base disponibilizada pela Polícia Rodoviária Federal (PRF) contém registros relacionados aos acidentes e às pessoas envolvidas. Para garantir uma interpretação adequada dos resultados, foram considerados os seguintes conceitos:
+
+- **Quantidade de acidentes:** contabilizada por meio da contagem de identificadores (`id`), representando as ocorrências registradas na base.
+- **Pessoas envolvidas:** os registros da base também contêm informações sobre os participantes dos acidentes. Dessa forma, a quantidade de linhas não necessariamente corresponde à quantidade de ocorrências, pois um acidente pode envolver várias pessoas.
+- **Gravidade:** considera os registros de vítimas fatais (`mortos`) e feridas gravemente (`feridos_graves`), conforme os critérios utilizados nas análises.
+
+Essa distinção permite interpretar corretamente os indicadores apresentados no dashboard, diferenciando o volume de acidentes da quantidade de pessoas envolvidas e da gravidade das ocorrências.
+
 ## 🚀 Conclusão
 
 A análise demonstrou que os acidentes de trânsito no Brasil são fortemente influenciados por fatores comportamentais e padrões temporais. O uso de dados permitiu identificar pontos críticos e gerar insights relevantes para possíveis ações de prevenção.
