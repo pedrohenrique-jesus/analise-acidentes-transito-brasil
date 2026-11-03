@@ -55,10 +55,9 @@ Levantamento de dados públicos disponibilizados pela PRF.
 
 Principais descobertas:
 
-* Acidentes se concentram em horários de pico e finais de semana
-* O fator humano é a principal causa das ocorrências
-* Estados com menor volume podem apresentar maior gravidade proporcional
-* Períodos noturnos apresentam maior risco de fatalidade
+* Maior concentração de acidentes às 18h, seguida por 17h, 7h e 19h.
+* Predominância de causas relacionadas à reação dos condutores, com destaque para reação tardia ou ineficiente e ausência de reação.
+* Minas Gerais, Paraná e Santa Catarina apresentam os maiores volumes de acidentes entre os estados destacados no dashboard.
 
 ### 5. Visualização de Dados
 
@@ -120,7 +119,7 @@ Essa distinção permite interpretar corretamente os indicadores apresentados no
 
 ## 🚀 Conclusão
 
-A análise demonstrou que os acidentes de trânsito no Brasil são fortemente influenciados por fatores comportamentais e padrões temporais. O uso de dados permitiu identificar pontos críticos e gerar insights relevantes para possíveis ações de prevenção.
+A análise permitiu identificar padrões temporais, geográficos e causas registradas nos acidentes ocorridos nas rodovias federais brasileiras em 2025. Os resultados destacam a concentração de ocorrências em determinados horários e estados, além da relevância das causas relacionadas à reação dos condutores. O uso de dados possibilitou transformar registros públicos em informações que podem contribuir para a compreensão do cenário da segurança viária e apoiar discussões sobre ações preventivas.
 
 ---
 
