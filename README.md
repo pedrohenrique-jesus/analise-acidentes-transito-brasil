@@ -70,11 +70,13 @@ Dashboard interativo desenvolvido no Looker Studio:
 
 ## 📊 Principais Insights
 
-* 🚨 Alta incidência de acidentes em horários de pico (manhã e fim da tarde)
-* 🍺 Finais de semana apresentam maior volume de ocorrências
-* ⚠️ Falhas humanas são responsáveis pela maioria dos acidentes
-* 🌙 Acidentes noturnos tendem a ser mais graves
-* 📍 Diferença entre volume de acidentes e taxa de gravidade por estado
+* 🚨 Maior concentração de registros de envolvidos em determinados horários do dia
+* 🍺 Distribuição das ocorrências e vítimas ao longo dos dias da semana
+* ⚠️ Principais causas associadas à maior quantidade de vítimas graves e fatais
+* 🌙 Comparação da gravidade das vítimas entre períodos do dia
+* 📍 Diferenças entre estados quanto ao volume de registros e à média de vítimas graves/fatais por registro
+
+**Nota metodológica:** A variável `gravidade` foi definida como a soma de vítimas fatais (`mortos`) e vítimas gravemente feridas (`feridos_graves`). A taxa de gravidade por estado corresponde à divisão dessa soma pela quantidade de registros considerados na análise, não representando diretamente a porcentagem de acidentes graves.
 
 ---
 
