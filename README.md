@@ -20,6 +20,10 @@ Os dados utilizados foram obtidos da Polícia Rodoviária Federal, por meio do p
 * Tipo: Dados estruturados (CSV)
 * Conteúdo: Informações sobre acidentes, localização, causas, condições e vítimas
 
+* **Período dos registros:** Ano de 2025
+* **Quantidade de registros:** 142.770 linhas
+* **Quantidade de variáveis:** 37 colunas
+
 ---
 
 ## 🛠️ Tecnologias Utilizadas
